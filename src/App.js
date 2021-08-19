@@ -18,7 +18,7 @@ function App() {
           </ImageContainer>
           <Switch>
             <Route exact path ='/' component={SignUp}/>
-            <Route path ='/SignIn' component={SignIn}/>
+            <Route path ='/signin' component={SignIn}/>
           </Switch>
         </Wrapper>
     </div>
