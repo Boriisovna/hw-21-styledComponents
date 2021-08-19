@@ -58,8 +58,8 @@ function SignIn() {
 
       <FlexContainer style={{ justifyContent: 'space-between'}}>
         <LinkStyle style={{ marginRight: '100px' }}>Forgot password</LinkStyle>
-        <Link style={{ textDecoration: 'none' }} exact to='/'>
-        <LinkStyle style={{ margin: '0' }}>Don't have an account? Sign Up</LinkStyle>
+        <Link style={{ textDecoration: 'none' }} exact to='/signup'>
+       Don't have an account? Sign Up
         </Link>
         </FlexContainer>
       <Footer>Copyright © Your website 2021.</Footer>

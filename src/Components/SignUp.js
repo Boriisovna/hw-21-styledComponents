@@ -63,7 +63,7 @@ function SignUp() {
                 <InputSubmit type="submit" value="Sign up" />
             </Form>
             <Link style={{ textDecoration: 'none' }} exact to='/signin'>
-                <LinkStyle style={{ marginLeft: '180px' }}> Already have an account? Sign in</LinkStyle>
+                 Already have an account? Sign in
             </Link>
             <Footer>Copyright © Your website 2021.</Footer>
         </>
